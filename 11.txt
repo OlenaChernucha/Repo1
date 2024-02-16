@@ -3,3 +3,5 @@ euro = input("zadej pocet euro:")
 euro = int(euro)
 cena = euro * kurz
 print(f"cena je {cena:,} kc.".replace(",", " "))
+
+Hello, I am Liza.
